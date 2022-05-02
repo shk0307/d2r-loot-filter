@@ -4745,7 +4745,7 @@
   {
     "id": 2209,
     "Key": "rvs",
-    "enUS": "ÿc;35ÿc0JV",
+    "enUS": "ÿc;35ÿc0",
     "zhTW": "活力藥水",
     "deDE": "Regenerationstrank",
     "esES": "Poción rejuvenecedora",
@@ -5629,7 +5629,7 @@
   {
     "id": 2266,
     "Key": "hp1",
-    "enUS": "ÿc11ÿc0HP",
+    "enUS": "",
     "zhTW": "弱效生命藥水",
     "deDE": "schwacher Heiltrank",
     "esES": "Poción de salud menor",
@@ -5646,7 +5646,7 @@
   {
     "id": 2267,
     "Key": "hp2",
-    "enUS": "ÿc12ÿc0HP",
+    "enUS": "",
     "zhTW": "輕效生命藥水",
     "deDE": "leichter Heiltrank",
     "esES": "Poción de salud ligera",
@@ -5663,7 +5663,7 @@
   {
     "id": 2268,
     "Key": "hp3",
-    "enUS": "ÿc13ÿc0HP",
+    "enUS": "",
     "zhTW": "生命藥水",
     "deDE": "Heiltrank",
     "esES": "Poción de salud",
@@ -5680,7 +5680,7 @@
   {
     "id": 2269,
     "Key": "hp4",
-    "enUS": "ÿc14ÿc0HP",
+    "enUS": "",
     "zhTW": "強效生命藥水",
     "deDE": "guter Heiltrank",
     "esES": "Poción de salud superior",
@@ -5714,7 +5714,7 @@
   {
     "id": 2271,
     "Key": "mp1",
-    "enUS": "ÿc31ÿc0MP",
+    "enUS": "",
     "zhTW": "弱效法力藥水",
     "deDE": "schwacher Manatrank",
     "esES": "Poción de maná menor",
@@ -5731,7 +5731,7 @@
   {
     "id": 2272,
     "Key": "mp2",
-    "enUS": "ÿc32ÿc0MP",
+    "enUS": "",
     "zhTW": "輕效法力藥水",
     "deDE": "leichter Manatrank",
     "esES": "Poción de maná ligera",
@@ -5748,7 +5748,7 @@
   {
     "id": 2273,
     "Key": "mp3",
-    "enUS": "ÿc33ÿc0MP",
+    "enUS": "",
     "zhTW": "法力藥水",
     "deDE": "Manatrank",
     "esES": "Poción de maná",
@@ -5765,7 +5765,7 @@
   {
     "id": 2274,
     "Key": "mp4",
-    "enUS": "ÿc34ÿc0MP",
+    "enUS": "",
     "zhTW": "強效法力藥水",
     "deDE": "guter Manatrank",
     "esES": "Poción de maná superior",
