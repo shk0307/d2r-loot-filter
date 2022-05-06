@@ -5119,7 +5119,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "ÿc5★ÿc0 Chipped Amethyst",
+    "enUS": "1 Ameth",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter ÿc;Amethyst",
     "esES": "Amatista fragmentada",
@@ -5136,7 +5136,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "Flawed Amethyst",
+    "enUS": "2 Amethy",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter ÿc;Amethyst",
     "esES": "Amatista estropeada",
@@ -5153,7 +5153,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "Amethyst",
+    "enUS": "3 Amethy",
     "zhTW": "紫寶石",
     "deDE": "ÿc;Amethyst",
     "esES": "Amatista",
@@ -5204,7 +5204,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "ÿc5★ÿc0 Chipped Topaz",
+    "enUS": "1 Topaz",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5221,7 +5221,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "Flawed Topaz",
+    "enUS": "2 Topaz",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5238,7 +5238,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "Topaz",
+    "enUS": "3 Topaz",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5289,7 +5289,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "ÿc5★ÿc0 Chipped Sapphire",
+    "enUS": "1 Sapp",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5306,7 +5306,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "Flawed Sapphire",
+    "enUS": "2 Sapp",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5323,7 +5323,7 @@
   {
     "id": 2248,
     "Key": "gsb",
-    "enUS": "Sapphire",
+    "enUS": "3 Sapp",
     "zhTW": "瑕疵藍寶石",
     "deDE": "Saphir",
     "esES": "Zafiro",
@@ -5374,7 +5374,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "ÿc5★ÿc0 Chipped Emerald",
+    "enUS": "1 Emerald",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5391,7 +5391,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "Flawed Emerald",
+    "enUS": "2 Emerald",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5425,7 +5425,7 @@
   {
     "id": 2254,
     "Key": "gsg",
-    "enUS": "Emerald",
+    "enUS": "3 Emerald",
     "zhTW": "",
     "deDE": "Smaragd",
     "esES": "Esmeralda",
@@ -5459,7 +5459,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "ÿc5★ÿc0 Chipped Ruby",
+    "enUS": "1 Ruby",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5476,7 +5476,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "Flawed Ruby",
+    "enUS": "2 Ruby",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5493,7 +5493,7 @@
   {
     "id": 2258,
     "Key": "gsr",
-    "enUS": "ÿc1Ruby",
+    "enUS": "3 Ruby",
     "zhTW": "",
     "deDE": "Rubin",
     "esES": "Rubí",
@@ -5544,7 +5544,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "ÿc5★ÿc0 Chipped Diamond",
+    "enUS": "1 Diamond",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5561,7 +5561,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "Flawed Diamond",
+    "enUS": "2 Diamond",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",
@@ -5578,7 +5578,7 @@
   {
     "id": 2263,
     "Key": "gsw",
-    "enUS": "Diamond",
+    "enUS": "3 Diamond",
     "zhTW": "",
     "deDE": "Diamant",
     "esES": "Diamante",
@@ -5799,7 +5799,7 @@
   {
     "id": 2277,
     "Key": "skc",
-    "enUS": "ÿc5★ÿc0 Chipped Skull",
+    "enUS": "1 Skull",
     "zhTW": "碎裂骷髏石",
     "deDE": "lädierter Schädel",
     "esES": "Cráneo fragmentado",
@@ -5816,7 +5816,7 @@
   {
     "id": 2278,
     "Key": "skf",
-    "enUS": "Flawed Skull",
+    "enUS": "2 Skull",
     "zhTW": "瑕疵骷髏石",
     "deDE": "fehlerhafter Schädel",
     "esES": "Cráneo estropeado",
@@ -5833,7 +5833,7 @@
   {
     "id": 2279,
     "Key": "sku",
-    "enUS": "Skull",
+    "enUS": "3 Skull",
     "zhTW": "骷髏石",
     "deDE": "Schädel",
     "esES": "Cráneo",
